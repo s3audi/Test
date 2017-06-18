@@ -1,0 +1,10 @@
+
+						blog.php ............43ncu satýr uçurdum
+						<!-- <?php comments_popup_link('No Comments.', '1 Comment.', '% Comments.'); ?> -->						
+						
+						
+						Category.php ..... loop.php yi çaðýrýyor onun içinde de 20nci satýr
+						uçurdum LOOP.PHP
+						<?php comments_popup_link('No Comments.', '1 Comment.', '% Comments.'); ?>
+						
+						Single.php........comments.php yi çaðýrýyor onun içinde de 32nci satýrý ... yaptým

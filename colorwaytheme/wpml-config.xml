@@ -1,0 +1,37 @@
+<wpml-config>
+    <admin-texts>
+        <key name="colorway_slideheading1" />
+        <key name="colorway_slidelink1" />
+        <key name="colorway_slidedescription1" />
+        <key name="colorway_slideheading2" />
+        <key name="colorway_slidelink2" />
+        <key name="colorway_slidedescription2" />
+        <key name="colorway_slideheading3" />
+        <key name="colorway_slidelink3" />
+        <key name="colorway_slidedescription3" />
+        <key name="colorway_slideheading4" />
+        <key name="colorway_slidelink4" />
+        <key name="colorway_slidedescription4" />
+        <key name="colorway_slideheading5" />
+        <key name="colorway_slidelink5" />
+        <key name="colorway_slidedescription5" />
+        <key name="colorway_slideheading6" />
+        <key name="colorway_slidelink6" />
+        <key name="colorway_slidedescription6" />
+        <key name="inkthemes_mainheading" />
+        <key name="inkthemes_headline1" />
+        <key name="inkthemes_link1" />
+        <key name="inkthemes_feature1" />
+        <key name="inkthemes_headline2" />
+        <key name="inkthemes_link2" />
+        <key name="inkthemes_feature2" />
+        <key name="inkthemes_headline3" />
+        <key name="inkthemes_link3" />
+        <key name="inkthemes_feature3" />
+        <key name="inkthemes_headline4" />
+        <key name="inkthemes_link4" />
+        <key name="inkthemes_feature4" />
+        <key name="inkthemes_testimonial" />
+        <key name="footer_text" />
+    </admin-texts>
+</wpml-config>
